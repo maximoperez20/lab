@@ -1,0 +1,15 @@
+body{
+    margin: 0 120px;
+    padding: 0 220px;
+    background-color: rgb(255, 238, 238);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    border-radius: 2%;
+    border: 1px solid black;
+}
+.profile{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
